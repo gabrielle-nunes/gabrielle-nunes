@@ -1,6 +1,6 @@
 ### It's dangerous to go alone! Take this ( °-°)ﾉ💻
 ##
-- 🐱‍💻 Atualmente trabalho com Java/Java Web
+- 🐱‍💻 Atualmente trabalho com Java e Cobol
 - 🐱‍👤 Estudando novas tecnologias front-end
 - 📫 Contato: gabrielle.nunes1906@gmail.com
 
