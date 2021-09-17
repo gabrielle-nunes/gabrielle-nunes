@@ -17,7 +17,7 @@
   <img align="center" alt="Gabrielle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabrielle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabrielle-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="Gabrielle-Cob" height="30" width="40" src="http://findicons.com/files/icons/2773/pictonic_free/32/prog_cobol.png"> 
+  <img align="center" alt="Gabrielle-Cobol" height="30" width="40" src="https://cdn.discordapp.com/attachments/725521920589692999/888514147665473546/cobol64.png">
   
 </div>
  
