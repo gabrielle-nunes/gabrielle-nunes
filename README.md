@@ -24,6 +24,5 @@
  ##
  <div>
   <a href="https://www.linkedin.com/in/gabriellenuness/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="Gabrielle-Gif" src="https://cdn.discordapp.com/attachments/725521920589692999/873019839046889492/Webp.net-resizeimage.gif">
    
 ![Snake animation](https://github.com/gabrielle-nunes/gabrielle-nunes/blob/output/github-contribution-grid-snake.svg)
