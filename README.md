@@ -1,7 +1,7 @@
 ### It's dangerous to go alone! Take this ( °-°)ﾉ💻
 ##
 - 🐱‍💻 Atualmente trabalho com Java e Cobol
-- 🐱‍👤 Estudando TS e Angular
+- 🐱‍👤 Estudando Front
 - 📫 Contato: gabrielle.nunes1906@gmail.com
 
  <div>
