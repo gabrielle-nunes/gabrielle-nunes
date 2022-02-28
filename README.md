@@ -17,7 +17,6 @@
  <img align="center" alt="Gabrielle-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Gabrielle-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
  <img align="center" alt="Gabrielle-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- <img align="center" alt="Gabrielle-Postman" height="30" width="40" src="https://cdn.discordapp.com/attachments/725521920589692999/947873639083167794/postman-icon.png">
   
 </div>
 
