@@ -1,8 +1,9 @@
 ### It's dangerous to go alone! Take this > 💻
 
-- ☕ Atualmente trabalho com Java
-- 🚀 Primeiros passos no Front
-- 📫 Contato: gabrielle.nunes1906@gmail.com
+<div>☕ Atualmente trabalho com Java </div>
+<div>🚀 Primeiros passos no Front </div>
+<div>📫 Contato: gabrielle.nunes1906@gmail.com
+<div><a href="https://www.linkedin.com/in/gabriellenuness/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 ##
 <h4>Tecnologias: </h4>
@@ -34,8 +35,8 @@
   <a href="https://github.com/gabrielle-nunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielle-nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-nunes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" src="https://cdn.discordapp.com/attachments/725521920589692999/999333631032045668/octocat-1658329994422.png"/>
 </div>
  
  <br>
  <div>
-  <a href="https://www.linkedin.com/in/gabriellenuness/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
