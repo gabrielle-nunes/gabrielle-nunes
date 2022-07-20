@@ -33,9 +33,9 @@
 <br>
  <div>
   <a href="https://github.com/gabrielle-nunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielle-nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-nunes&layout=compact&langs_count=7&theme=radical"/>
-  <img height="200em" src="https://cdn.discordapp.com/attachments/725521920589692999/999333631032045668/octocat-1658329994422.png"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielle-nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-nunes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://cdn.discordapp.com/attachments/725521920589692999/999333631032045668/octocat-1658329994422.png"/>
 </div>
  
  <br>
