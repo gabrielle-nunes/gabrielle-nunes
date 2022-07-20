@@ -1,7 +1,7 @@
-### It's dangerous to go alone! Take this ( °-°)ﾉ💻
+### It's dangerous to go alone! Take this > 💻
 
-- 🐱‍💻 Atualmente trabalho com Java
-- 🐱‍👤 Primeiros passos no Front
+- ☕ Atualmente trabalho com Java
+- 🚀 Primeiros passos no Front
 - 📫 Contato: gabrielle.nunes1906@gmail.com
 
 ##
@@ -15,10 +15,19 @@
  <img align="center" alt="Gabrielle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Gabrielle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Gabrielle-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Gabrielle-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
  <img align="center" alt="Gabrielle-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" alt="Gabrielle-MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+ <img align="center" alt="Gabrielle-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 </div>
+
+<h4>O que estou aprendendo: </h4>
+ <div style="display: inline_block">
+ 
+ <img align="center" alt="Gabrielle-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+ <img align="center" alt="Gabrielle-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+ 
+ </div>
 
 <br>
  <div>
