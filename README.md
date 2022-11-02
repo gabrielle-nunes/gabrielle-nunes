@@ -22,8 +22,8 @@
  <div style="display: inline_block">
  
  <img align="center" alt="Gabrielle-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
- <img align="center" alt="Gabrielle-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
- 
+ <img align="center" alt="Gabrielle-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+          
  </div>
 
 <br>
