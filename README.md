@@ -1,7 +1,6 @@
 ### It's dangerous to go alone! Take this > 💻
 
 <div>☕ Atualmente trabalho com Java </div>
-<div>🚀 Primeiros passos no Front </div>
 <div>📫 Contato: gabrielle.nunes1906@gmail.com
 <div><a href="https://www.linkedin.com/in/gabriellenuness/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
@@ -17,14 +16,6 @@
  <img align="center" alt="Gabrielle-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 </div>
-
-<h4>O que estou aprendendo: </h4>
- <div style="display: inline_block">
- 
- <img align="center" alt="Gabrielle-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
- <img align="center" alt="Gabrielle-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-          
- </div>
 
 <br>
  <div>
